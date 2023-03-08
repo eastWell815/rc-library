@@ -1,0 +1,23 @@
+{
+  "name": "rc-library",
+  "version": "1.0.0",
+  "description": "react组件库md文档工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eastWell815/rc-library.git"
+  },
+  "bin":{
+    "rc-library":"index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eastWell815/rc-library/issues"
+  },
+  "homepage": "https://github.com/eastWell815/rc-library#readme"
+}
